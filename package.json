@@ -1,0 +1,15 @@
+{
+  "name": "random-image-url",
+  "version": "1.0.0",
+  "description": "This is returns a random image url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Arjane Sachi",
+  "license": "ISC",
+  "dependencies": {
+    "cool-images": "^1.0.3"
+  }
+}
