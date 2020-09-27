@@ -2,7 +2,7 @@ const http = require('http');
 const coolImages = require('cool-images');
 
 const hostname = '0.0.0.0';
-const port = 6110;
+const port = 30200;
 
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
